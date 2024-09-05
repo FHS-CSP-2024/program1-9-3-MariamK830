@@ -20,7 +20,6 @@ print("Row, row, row your boat,\n\t"
 print(4+3)
 print(4*3)
 print(1+1*3/4)
-
 print ((24*60)*365)
 
 print("I am super cool")
